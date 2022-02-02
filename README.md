@@ -11,7 +11,7 @@
 
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: [email](sbhat97@gatech.edu), [Likedin](www.linkedin.com/in/krishna231).
-- 🌱 I’m currently interested in learning Google Cloud ☁ 
+- 🌱 I’m currently learning more about Web Sockets and Socket.io.
 
 
 <!--
