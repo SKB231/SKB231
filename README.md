@@ -7,7 +7,7 @@
 ### Who am I really? 🔍❓
   - I love to code, because of the things we can create with it. 
   - Along with this I love to learn things I find challenging, like probability! 
-  - Ocassionally I also make games in UE4 for fun. I also help [INFIMA Games](https://twitter.com/InfimaGames) with some features in their Low Poly Shooter Pack for UE4.
+  - Ocassionally I also make games in UE4 for fun. I also help [INFIMA Games](https://twitter.com/InfimaGames) with some features such as  in their Low Poly Shooter Pack for UE4.
 
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Likedin](https://www.linkedin.com/in/krishna231/).
