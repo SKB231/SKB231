@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 ### Who am I ? 📚
   - I'm a sophomore at Georgia Tech, College of Computing. I am working towards my B.S. Computer Science.
