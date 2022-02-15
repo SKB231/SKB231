@@ -10,7 +10,7 @@
   - Ocassionally I also make games in UE4 for fun. I was a developer at [INFIMA Games](https://twitter.com/InfimaGames), where I implemented some features such as networking for   their Low Poly Shooter Pack for UE4.
 
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Likedin](https://www.linkedin.com/in/krishna231/).
+- 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Likedin](https://www.linkedin.com/in/krishna231/), [Website](https://skb231.github.io/personal-website/).
 - 🌱 I’m currently learning more about Web Sockets, Socket.io, and working for the Google Cloud: Cloud Engineer Learning Path.
 
 
