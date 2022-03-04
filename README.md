@@ -6,7 +6,6 @@
 
 ### Who am I really? 🔍❓
   - I love to code, because of the things we can create with it. 
-  - Along with this I love to learn things I find challenging, like probability! 
   - Ocassionally I also make games in UE4 for fun. I was a developer at [INFIMA Games](https://twitter.com/InfimaGames), where I implemented some features such as networking for   their Low Poly Shooter Pack for UE4.
 
 - 😄 Pronouns: He/Him/His
