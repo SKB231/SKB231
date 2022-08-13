@@ -1,7 +1,7 @@
 ## Hi 👋
 
 ### Who am I ? 📚
-  - I'm a sophomore at Georgia Tech, College of Computing. I am working towards my B.S. Computer Science.
+  - I'm a junior at Georgia Tech, College of Computing. I am working towards my B.S. Computer Science.
   - My threads are the Intelligence and Information Internetworks. I'm a full stack web developer, who mostly uses the MERN stack.
 
 ### Who am I really? 🔍❓
@@ -10,7 +10,7 @@
 
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Likedin](https://www.linkedin.com/in/krishna231/), [Website](https://skb231.github.io/personal-website/).
-- 🌱 I’m currently learning more about Web Sockets, Socket.io, and working for the Google Cloud: Cloud Engineer Learning Path.
+- 🌱 I’m currently learning about generative AI models specially for images and music. I'm also getting used to using Tensorflow to help me build these models.
 
 
 <!--
