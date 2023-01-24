@@ -3,14 +3,9 @@
 ### Who am I ? 📚
   - I'm a junior at Georgia Tech, College of Computing. I am working towards my B.S. Computer Science.
   - My threads are the Intelligence and Information Internetworks. I'm a full stack web developer, who mostly uses the MERN stack.
-
-### Who am I really? 🔍❓
-  - I love to code, because of the things we can create with it. 
-  - Ocassionally I also make games in UE4 for fun. I was a developer at [INFIMA Games](https://twitter.com/InfimaGames), where I implemented some features such as networking for   their Low Poly Shooter Pack for UE4.
-
-- 😄 Pronouns: He/Him/His
-- 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Likedin](https://www.linkedin.com/in/krishna231/), [Website](https://skb231.github.io/personal-website/).
-- 🌱 I’m currently learning about generative AI models specially for images and music. I'm also getting used to using Tensorflow to help me build these models.
+  - 😄 Pronouns: He/Him/His
+  - 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Likedin](https://www.linkedin.com/in/krishna231/), [Website](https://skb231.github.io/personal-website/).
+  - 🌱 I’m currently learning about generative AI models specially for images and music. I'm also getting used to using Tensorflow to help me build these models.
 
 
 <!--
