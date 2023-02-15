@@ -6,6 +6,7 @@
   - 😄 Pronouns: He/Him/His
   - 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Likedin](https://www.linkedin.com/in/krishna231/), [Website](https://skb231.github.io/personal-website/).
   - 🌱 I’m currently learning about generative AI models specially for images and music. I'm also getting used to using Tensorflow to help me build these models.
+  - 📒 I'm also a frequent Open Source Contributor to the [Rocket Chat ecosystem](https://github.com/RocketChat). 
 
 
 <!--
