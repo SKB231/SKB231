@@ -1,7 +1,7 @@
 ## Hi 👋
 
 ### Who am I ? 📚
-  - I'm a rising at Georgia Tech, College of Computing. I am working towards my B.S. Computer Science.
+  - I'm a rising senior at Georgia Tech, College of Computing. I am working towards my B.S. Computer Science.
   - My threads are the Intelligence and Information Internetworks. I'm a full stack web developer, who mostly uses the MERN stack.
   - 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Linkedin](https://www.linkedin.com/in/krishna231/), [Website](https://skb231.github.io/personal-website/).
   - 🌱 I’m currently learning about backend technologies such as Web Sockets, golang, and multithreaded programming!
