@@ -1,10 +1,10 @@
 ## Hi 👋
 
 ### Who am I ? 📚
-  - I'm a rising senior at Georgia Tech, College of Computing. I am working towards my B.S. Computer Science.
-  - I work in fullstack projects and am comforatble working in any tech stack. Recently though, I have been mostly working with Golang, Javascript, Typescript, and C++ (for my personal projects).
+  - I am a masters student at Georgia Tech studying Computer Science. I will be graduating this December!
+  - I recently finished my internship from Samsara, and am always looking for cool new places to work at! If you're looking for somebody with backend/infrastructure experience feel free to shoot an email!
   - 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Linkedin](https://www.linkedin.com/in/krishna231/).
-  - 🌱 I'm always interested in learning more about backend technlogies, both in application and implementation. I work mainly with Go, and C++ in this side where I work on things like Game Engines and CLI/Web servers.
+  - 🌱 I'm always interested in learning more about backend technlogies, both in application and implementation. I work mainly with Go, and C++ in this side where I work on things like Game Engines, CLI/Web servers, and CI/CD apps.
 
 
 <!--
