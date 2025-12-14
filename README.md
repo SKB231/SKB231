@@ -1,9 +1,9 @@
 ## Hi 👋
 
 ### Who am I ? 📚
-  - I am a masters student at Georgia Tech studying Computer Science. I will be graduating this December!
+  - I am a masters student at Georgia Tech studying Computer Science. I will be graduating next semester! 
   - I recently finished my internship from Samsara, and am always looking for cool new places to work at! If you're looking for somebody with backend/infrastructure experience feel free to shoot an email!
-  - 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Linkedin](https://www.linkedin.com/in/krishna231/).
+  - 📫 How to reach me: [email](mailto:sbhat97@gatech.edu), [Linkedin](https://www.linkedin.com/in/krishna231/). If you have my number, please don't call me directly. I am a lot more responsive in emails, texts, and DM's.
   - 🌱 I'm always interested in learning more about backend technlogies, both in application and implementation. I work mainly with Go, and C++ in this side where I work on things like Game Engines, CLI/Web servers, and CI/CD apps.
 
 
