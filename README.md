@@ -1,9 +1,10 @@
 ## Hi 👋
 
 ### Who am I ? 📚
-  - Currently working at Firefly building the next-gen secruity stack for schools, hospitals, and retail. If you want to chat or just want to work on some cool projects in infra/backend/game engines, feel free to hit me up on [gmail](shreekrishnabhat231@gmail.com)
+  - Currently working at Firefly building the next-gen secruity stack for schools, hospitals, and retail.
   - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/krishna231/). If you have my number, please don't call me directly. I am a lot more responsive in emails, texts, and DM's.
   - Go, Javascript, Typescript, C++, C. Backend/Infra/Fullstack
+  - If you want to chat or just want to work on some cool projects in infra/backend/game engines, feel free to hit me up on [gmail](shreekrishnabhat231@gmail.com)
 
 <!--
 **SKB231/SKB231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
