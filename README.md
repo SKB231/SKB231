@@ -1,9 +1,6 @@
-## Hi 👋
-
-### Who am I ? 📚
   - Currently working at [Firefly](https://www.firefly.co) building the ai native e2e security stack for schools, hospitals, and retail.
-  - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/krishna231/). If you have my number, please don't call me directly. I am a lot more responsive in emails, texts, and DM's.
-  - Go, Javascript, Typescript, C++, C. Backend/Infra/Fullstack
+  - How to reach me: [Linkedin](https://www.linkedin.com/in/krishna231/). Please don't call me directly. I am a lot more responsive in emails.
+  - Go, Typescript, Javascript, C++, C. Backend/Infra/Fullstack
   - If you want to chat or collab on some cool projects in infra/backend/game engines, feel free to hit me up on [gmail](shreekrishnabhat231@gmail.com)
 
 <!--
