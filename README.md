@@ -1,7 +1,6 @@
   - Currently working at [Firefly](https://www.firefly.co) building the ai native e2e security stack for schools, hospitals, and retail.
-  - How to reach me: [Linkedin](https://www.linkedin.com/in/krishna231/). Please don't call me directly. I am a lot more responsive in emails.
+  -  If you want to chat or collab on some cool projects in infra/backend/game engines, feel free to hit me up on [Linkedin](https://www.linkedin.com/in/krishna231/) or [gmail](shreekrishnabhat231@gmail.com).
   - Go, Typescript, Javascript, C++, C. Backend/Infra/Fullstack
-  - If you want to chat or collab on some cool projects in infra/backend/game engines, feel free to hit me up on [gmail](shreekrishnabhat231@gmail.com)
 
 <!--
 **SKB231/SKB231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
